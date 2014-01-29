@@ -32,7 +32,7 @@ import java.awt.image.*;
  * 2. Add the capability to capture mouse drags using MouseMotionListener
  */
 
-public class MinesweeperAutoPlay_RichardLiaw_Period6 {
+public class MineSweeperWithAutoPlay {
 
 	public static void main(String[] args) throws IOException {    
 
